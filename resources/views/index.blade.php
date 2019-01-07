@@ -1,6 +1,6 @@
 @extends('header')
 @section('content')
-      <!-- hello partner -->
+      <!-- hello  -->
 <div class="container">
 
   <table class="table table-responsive table-hover">
